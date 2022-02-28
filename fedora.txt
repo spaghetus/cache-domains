@@ -1,0 +1,2 @@
+*.fedoraproject.org
+*.rpmfusion.org
